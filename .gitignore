@@ -99,6 +99,3 @@ ENV/
 
 # mypy
 .mypy_cache/
-
-input/EURUSD 1min_with_timestamp.csv
-.input/EURUSD 1min_with_timestamp.csv
